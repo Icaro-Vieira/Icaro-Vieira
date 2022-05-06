@@ -1,8 +1,15 @@
 <h1 align="center">
-  <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" />
+  <img src="https://user-images.githubusercontent.com/78177376/167144968-d05eaed7-4c73-4973-b722-ba2d72663292.png" />
+</h1>
+<h1 align="center">
+  <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" border-radius="50%"/>
 </h1>
 
-
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 <p align="center">
  Olá 
 </p>
